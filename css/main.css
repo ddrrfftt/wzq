@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+#drawing{
+	border:1px solid red;
+	display:block;
+	margin:50px auto;
+}
